@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+    <rect width="1200" height="900" fill="#dfe9e4"/>
+    <circle cx="600" cy="390" r="150" fill="#176b4a" opacity=".12"/>
+    <text x="600" y="390" text-anchor="middle" font-family="Arial" font-size="54" font-weight="700" fill="#176b4a">Galeria 01</text>
+    <text x="600" y="455" text-anchor="middle" font-family="Arial" font-size="25" fill="#52635a">Foto oficial</text>
+    <text x="600" y="770" text-anchor="middle" font-family="Arial" font-size="20" fill="#73827a">SUBSTITUA POR IMAGEM OFICIAL</text>
+    </svg>
